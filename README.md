@@ -3,8 +3,9 @@ Testing out some zshot models for image classification / segmentation, object de
 
 
 # Models
-- [ ] CLIP
-- [ ] OWL_VIT
+- [x] CLIP
+- [x] OWL_VIT
+- [ ] OWL_VIT_2
 
 # ToDO
 Benchmark with the following metrics:
